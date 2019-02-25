@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    timestamp_super_functions (0.1.0.1)
+    timestamp_super_functions (0.1.0.2)
 
 GEM
   remote: https://rubygems.org/
